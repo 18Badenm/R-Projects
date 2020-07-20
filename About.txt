@@ -1,0 +1,9 @@
+The R for problem36.R
+represents me answering the question
+(a) Does the data support the claim that low-fat diet and aerobic exercise are of value in producing
+a mean reduction in blood cholesterol levels? Use . Suppose that the hypotheses are
+: versus : , where . What is the test statistic?
+
+R for visuals1.R
+a simple linear regression model is appropriate, fit the regression model
+relating steam usage (y) to the average temperature (x). 
